@@ -54,6 +54,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=om-darade03&theme=radical)
 
-
 ---
 <p align="center"><i>🎯 Currently on the path to becoming a Java Full Stack Developer — Frontend done, Backend loading...</i></p>
