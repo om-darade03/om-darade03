@@ -54,7 +54,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=om-darade03&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=om-darade03&layout=compact&theme=radical)
 
 ---
 <p align="center"><i>🎯 Currently on the path to becoming a Java Full Stack Developer — Frontend done, Backend loading...</i></p>
